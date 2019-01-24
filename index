@@ -4,5 +4,11 @@
 <h1>Salut </h1>
 <h2> Un premier soustitre</h2>
 <p>Dernier ecole </p>
+<ul>
+    <li>Choix 1</li>
+     <li>Choix 2</li> 
+      <li>Choix 3</li>    
+    
+</ul>
 
 </html>
